@@ -14,7 +14,7 @@ A e-platform for academic institutions that combines learning management and onl
 1. Clone the project
 
 ```bash
-git clone git@github.com:mihirsahu36/eLMS_Course_Platform_Django.git
+git clone https://github.com/mihirsahu36/eLMS_Course_Platform_Django.git
 ```
 
 2. Go to the project directory
